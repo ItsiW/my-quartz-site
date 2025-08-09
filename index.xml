@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>True Opinions</title>
+      <title>Itsi&#039;s Opinions</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on True Opinions</description>
+      <description>Last 10 notes on Itsi&#039;s Opinions</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Itsi&#039;s Website for Objective Opinions</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Welcome This is my hidden index page. Here are my published notes: Tea Notes MovieShelf TVShelf Bookshelf . ]]></description>
-    <pubDate>Sat, 09 Aug 2025 03:02:16 GMT</pubDate>
-  </item><item>
     <title>Tea Notes</title>
     <link>https://quartz.jzhao.xyz/02-Notes/Tea-Notes</link>
     <guid>https://quartz.jzhao.xyz/02-Notes/Tea-Notes</guid>
     <description><![CDATA[  Full namedateBuy Again?Typecommentsbrew notessourceDaughter’s Tea Dry Berry Ruby Oolong2025-03-16YOolongmilky berry-y, yummydaughter’s teaJade Oolong Tea2025-03-16NOolongReally nice sweet smell, slightly sweet potato. ]]></description>
-    <pubDate>Sat, 09 Aug 2025 03:02:16 GMT</pubDate>
+    <pubDate>Sat, 09 Aug 2025 03:05:09 GMT</pubDate>
   </item><item>
     <title>TVShelf</title>
     <link>https://quartz.jzhao.xyz/02-Notes/TVShelf</link>
     <guid>https://quartz.jzhao.xyz/02-Notes/TVShelf</guid>
-    <description><![CDATA[  RatingPosterTitleWriter⭐You Can’t Ask ThatN/A⭐LouieLouis C.K.⭐Love on the SpectrumN/A⭐Nathan for YouNathan Fielder, Michael Koman⭐Peep ShowJesse Armstrong, Sam Bain, Andrew O’Connor⭐SuccessionJesse Armstrong⭐UnorthodoxAnna Winger⭐WatchmenN/A⭐Arrested DevelopmentMitchell Hurwitz⭐AtlantaDonald Glover... ]]></description>
-    <pubDate>Sat, 09 Aug 2025 03:02:16 GMT</pubDate>
+    <description><![CDATA[  RatingPosterTitleWriter⭐SuccessionJesse Armstrong⭐UnorthodoxAnna Winger⭐WatchmenN/A⭐You Can’t Ask ThatN/A⭐FleabagPhoebe Waller-Bridge⭐How to with John WilsonN/A⭐Indian MatchmakingN/A⭐Limmy’s Show!Brian Limond⭐Los EspookysFred Armisen, Ana Fabrega, Julio Torres⭐LouieLouis C.K.⭐Love on the SpectrumN/... ]]></description>
+    <pubDate>Sat, 09 Aug 2025 03:05:09 GMT</pubDate>
   </item><item>
     <title>MovieShelf</title>
     <link>https://quartz.jzhao.xyz/02-Notes/MovieShelf</link>
     <guid>https://quartz.jzhao.xyz/02-Notes/MovieShelf</guid>
-    <description><![CDATA[  PosterTitleDirectorGenre⭐The Killing of a Sacred DeerYorgos LanthimosDrama, Horror, Mystery⭐The LobsterYorgos LanthimosDrama, Romance, Sci-Fi⭐The Pervert’s Guide to IdeologySophie FiennesDocumentary⭐Uncut GemsBenny Safdie, Josh SafdieCrime, Drama, Thriller⭐World of TomorrowDon HertzfeldtAnimation, ... ]]></description>
-    <pubDate>Sat, 09 Aug 2025 03:02:16 GMT</pubDate>
+    <description><![CDATA[  PosterTitleDirectorGenre⭐Uncut GemsBenny Safdie, Josh SafdieCrime, Drama, Thriller⭐World of TomorrowDon HertzfeldtAnimation, Short, Comedy⭐World of Tomorrow Episode Two: The Burden of Other People’s ThoughtsDon HertzfeldtAnimation, Short, Comedy⭐The BrutalistBrady CorbetDrama⭐The Killing of a Sacre... ]]></description>
+    <pubDate>Sat, 09 Aug 2025 03:05:09 GMT</pubDate>
   </item><item>
     <title>Bookshelf</title>
     <link>https://quartz.jzhao.xyz/02-Notes/Bookshelf</link>
     <guid>https://quartz.jzhao.xyz/02-Notes/Bookshelf</guid>
-    <description><![CDATA[  CoverTitleAuthorCategory⭐Slaughterhouse-fiveKurt VonnegutCensorship⭐The Deficit MythStephanie KeltonBusiness &amp; Economics⭐Bullshit JobsDavid GraeberSocial Science⭐MetamorphosisFranz KafkaFiction👍The People’s Republic of WalmartLeigh Phillips, Michal RozworskiPolitical Science👍Thinking in Syste... ]]></description>
-    <pubDate>Sat, 09 Aug 2025 03:02:16 GMT</pubDate>
+    <description><![CDATA[  CoverTitleAuthorCategory⭐Slaughterhouse-fiveKurt VonnegutCensorship⭐The Deficit MythStephanie KeltonBusiness &amp; Economics⭐MetamorphosisFranz KafkaFiction⭐Bullshit JobsDavid GraeberSocial Science👍Thinking in SystemsDonella MeadowsBusiness &amp; Economics👍The People’s Republic of WalmartLeigh Ph... ]]></description>
+    <pubDate>Sat, 09 Aug 2025 03:05:09 GMT</pubDate>
+  </item><item>
+    <title>Welcome to my website for objective reality</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Here are my published pages filled with the good stuff: Tea Notes MovieShelf TVShelf Bookshelf . ]]></description>
+    <pubDate>Sat, 09 Aug 2025 03:04:29 GMT</pubDate>
   </item>
     </channel>
   </rss>
