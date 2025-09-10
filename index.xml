@@ -10,43 +10,37 @@
     <link>https://facts.itsiweinstock.com/tvshelf</link>
     <guid>https://facts.itsiweinstock.com/tvshelf</guid>
     <description><![CDATA[  RatingPosterTitleWriter⭐Avatar: The Last AirbenderMichael Dante DiMartino, Bryan Konietzko⭐BoJack HorsemanRaphael Bob-Waksberg⭐Limmy’s Show!Brian Limond⭐Indian MatchmakingN/A⭐AtlantaDonald Glover⭐Arrested DevelopmentMitchell Hurwitz⭐You Can’t Ask ThatN/A⭐Love on the SpectrumN/A⭐How to with John Wil... ]]></description>
-    <pubDate>Wed, 10 Sep 2025 20:07:00 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 20:34:16 GMT</pubDate>
   </item><item>
     <title>📖 BookShelf</title>
     <link>https://facts.itsiweinstock.com/bookshelf</link>
     <guid>https://facts.itsiweinstock.com/bookshelf</guid>
     <description><![CDATA[  CoverTitleAuthorCategory⭐MetamorphosisFranz KafkaFiction⭐Slaughterhouse-fiveKurt VonnegutCensorship⭐The Deficit MythStephanie KeltonBusiness &amp; Economics⭐Bullshit JobsDavid GraeberSocial Science👍The People’s Republic of WalmartLeigh Phillips, Michal RozworskiPolitical Science👍If We BurnVincent... ]]></description>
-    <pubDate>Wed, 10 Sep 2025 20:07:00 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 20:34:16 GMT</pubDate>
   </item><item>
     <title>🎬 MovieShelf</title>
     <link>https://facts.itsiweinstock.com/movieshelf</link>
     <guid>https://facts.itsiweinstock.com/movieshelf</guid>
     <description><![CDATA[  PosterTitleDirectorGenre⭐Adaptation.Spike JonzeComedy, Drama⭐The BrutalistBrady CorbetDrama⭐Beau Is AfraidAri AsterComedy, Drama, Horror⭐In BrugesMartin McDonaghComedy, Crime, Drama⭐Bo Burnham: InsideBo BurnhamDocumentary, Comedy, Drama⭐World of Tomorrow Episode Two: The Burden of Other People’s Th... ]]></description>
-    <pubDate>Wed, 10 Sep 2025 20:07:00 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 20:34:16 GMT</pubDate>
   </item><item>
     <title>🍲 Recipes</title>
     <link>https://facts.itsiweinstock.com/recipes</link>
     <guid>https://facts.itsiweinstock.com/recipes</guid>
     <description><![CDATA[ Here are my workshopped vegan recipes. Quite annoyingly, most available vegan recipes are bad. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 20:07:00 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 20:34:16 GMT</pubDate>
   </item><item>
     <title>🍃 Tea Notes</title>
     <link>https://facts.itsiweinstock.com/tea-notes</link>
     <guid>https://facts.itsiweinstock.com/tea-notes</guid>
     <description><![CDATA[  namedatere-buy?typecommentsbrew notessourceDry Berry Ruby Oolong2025-03-16YOolongmilky berry-y, yummydaughter’s teaJade Oolong Tea2025-03-16NOolongReally nice sweet smell, slightly sweet potato. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 20:07:00 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 20:34:16 GMT</pubDate>
   </item><item>
     <title>Welcome to my website for objective reality</title>
     <link>https://facts.itsiweinstock.com/</link>
     <guid>https://facts.itsiweinstock.com/</guid>
     <description><![CDATA[ Food, Music, Books, Tea, Vegan Propaganda ]]></description>
-    <pubDate>Wed, 10 Sep 2025 20:07:00 GMT</pubDate>
-  </item><item>
-    <title>Designing Good AI Agent Systems with Evaluations</title>
-    <link>https://facts.itsiweinstock.com/blog/Designing-Good-AI-Agent-Systems-with-Evaluations</link>
-    <guid>https://facts.itsiweinstock.com/blog/Designing-Good-AI-Agent-Systems-with-Evaluations</guid>
-    <description><![CDATA[ Intro concepts Evals and the data flywheel are what will make or break AI products Evals are the base infrastructure to do future work on prompt engineering, few-shot learning, RAG, and fine-tuning. ]]></description>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 20:34:16 GMT</pubDate>
   </item><item>
     <title>The Metamorphosis</title>
     <link>https://facts.itsiweinstock.com/blog/The-Metamorphosis</link>
@@ -65,6 +59,12 @@
     <guid>https://facts.itsiweinstock.com/blog/Finding-all-vertices-of-a-convex-polytope-defined-by-a-high-dimensional-linear-system</guid>
     <description><![CDATA[ I was dealing with an optimization problem in n positive dimensions with m linear constraints, and it occured to me it would be useful to find all the vertices of the polytope created by the constraints. ]]></description>
     <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Machine learning approach for Bitcoin network inference</title>
+    <link>https://facts.itsiweinstock.com/blog/Machine-learning-approach-for-Bitcoin-network-inference</link>
+    <guid>https://facts.itsiweinstock.com/blog/Machine-learning-approach-for-Bitcoin-network-inference</guid>
+    <description><![CDATA[ In an earlier post: A look at the Bitcoin P2P network topology, we looked at previous attempts of finding the Bitcoin P2P network topology. ]]></description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
