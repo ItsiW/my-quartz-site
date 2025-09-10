@@ -10,13 +10,31 @@
     <link>https://facts.itsiweinstock.com/</link>
     <guid>https://facts.itsiweinstock.com/</guid>
     <description><![CDATA[ Food, Music, Books, Tea, Vegan Propaganda ]]></description>
-    <pubDate>Wed, 10 Sep 2025 00:20:56 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 00:24:57 GMT</pubDate>
   </item><item>
     <title>Tea Notes</title>
     <link>https://facts.itsiweinstock.com/07-Tastes/Tea-Notes</link>
     <guid>https://facts.itsiweinstock.com/07-Tastes/Tea-Notes</guid>
     <description><![CDATA[  namedatere-buy?typecommentsbrew notessourceDry Berry Ruby Oolong2025-03-16YOolongmilky berry-y, yummydaughter’s teaJade Oolong Tea2025-03-16NOolongReally nice sweet smell, slightly sweet potato. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 00:20:56 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 00:24:57 GMT</pubDate>
+  </item><item>
+    <title>TVShelf</title>
+    <link>https://facts.itsiweinstock.com/07-Tastes/TVShelf</link>
+    <guid>https://facts.itsiweinstock.com/07-Tastes/TVShelf</guid>
+    <description><![CDATA[ const ratingMap = { 1: &quot;👎&quot;, 2: &quot;🤷&quot;, 3: &quot;👍&quot;, 4: &quot;⭐&quot; }; // Function to parse Obsidian date format like &quot;8 Sep 2025, Mon, 7:38pm&quot; function parseObsidianDate(dateStr) { if (!dateStr) return null; try { // Extract the date part before the first comma c... ]]></description>
+    <pubDate>Wed, 10 Sep 2025 00:24:57 GMT</pubDate>
+  </item><item>
+    <title>MovieShelf</title>
+    <link>https://facts.itsiweinstock.com/07-Tastes/MovieShelf</link>
+    <guid>https://facts.itsiweinstock.com/07-Tastes/MovieShelf</guid>
+    <description><![CDATA[ const ratingMap = { 1: &quot;👎&quot;, 2: &quot;🤷&quot;, 3: &quot;👍&quot;, 4: &quot;⭐&quot; }; // Function to parse Obsidian date format like &quot;8 Sep 2025, Mon, 7:38pm&quot; function parseObsidianDate(dateStr) { if (!dateStr) return null; try { // Extract the date part before the first comma c... ]]></description>
+    <pubDate>Wed, 10 Sep 2025 00:24:57 GMT</pubDate>
+  </item><item>
+    <title>Bookshelf</title>
+    <link>https://facts.itsiweinstock.com/07-Tastes/Bookshelf</link>
+    <guid>https://facts.itsiweinstock.com/07-Tastes/Bookshelf</guid>
+    <description><![CDATA[ const ratingMap = { 1: &quot;👎&quot;, 2: &quot;🤷&quot;, 3: &quot;👍&quot;, 4: &quot;⭐&quot; }; // Function to parse Obsidian date format like &quot;8 Sep 2025, Mon, 7:38pm&quot; function parseObsidianDate(dateStr) { if (!dateStr) return null; try { // Extract the date part before the first comma c... ]]></description>
+    <pubDate>Wed, 10 Sep 2025 00:24:57 GMT</pubDate>
   </item>
     </channel>
   </rss>
