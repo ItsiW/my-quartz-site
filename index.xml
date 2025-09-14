@@ -6,65 +6,65 @@
       <description>Last 10 notes on Itsi Weinstock</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Intro to Bayesian Optimization 3. Intro to Bayesian Statistics</title>
+    <link>https://itsiweinstock.com/blog/Intro-to-Bayesian-Optimization-3.-Intro-to-Bayesian-Statistics</link>
+    <guid>https://itsiweinstock.com/blog/Intro-to-Bayesian-Optimization-3.-Intro-to-Bayesian-Statistics</guid>
+    <description><![CDATA[ Section 3: Intro to Bayesian Statistics A question you might have at this point is: this seems like a general framework I could implement with any model; what about it is Bayesian? In this section we’re going to cover the fundamentals of Bayesian Statistics, and why it’s the appropriate choice for t... ]]></description>
+    <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>📺 TVShelf</title>
     <link>https://itsiweinstock.com/tvshelf</link>
     <guid>https://itsiweinstock.com/tvshelf</guid>
     <description><![CDATA[ TV shows I've watched with ratings ]]></description>
-    <pubDate>Sun, 14 Sep 2025 18:19:23 GMT</pubDate>
+    <pubDate>Sun, 14 Sep 2025 18:48:32 GMT</pubDate>
   </item><item>
     <title>📖 BookShelf</title>
     <link>https://itsiweinstock.com/bookshelf</link>
     <guid>https://itsiweinstock.com/bookshelf</guid>
     <description><![CDATA[ Books I've read with ratings and thoughts ]]></description>
-    <pubDate>Sun, 14 Sep 2025 18:19:23 GMT</pubDate>
+    <pubDate>Sun, 14 Sep 2025 18:48:32 GMT</pubDate>
   </item><item>
     <title>🎬 MovieShelf</title>
     <link>https://itsiweinstock.com/movieshelf</link>
     <guid>https://itsiweinstock.com/movieshelf</guid>
     <description><![CDATA[ Movies I've watched with ratings ]]></description>
-    <pubDate>Sun, 14 Sep 2025 18:19:23 GMT</pubDate>
+    <pubDate>Sun, 14 Sep 2025 18:48:32 GMT</pubDate>
   </item><item>
     <title>🍲 Recipes</title>
     <link>https://itsiweinstock.com/recipes</link>
     <guid>https://itsiweinstock.com/recipes</guid>
     <description><![CDATA[ My tested vegan recipes ]]></description>
-    <pubDate>Sun, 14 Sep 2025 18:19:23 GMT</pubDate>
+    <pubDate>Sun, 14 Sep 2025 18:48:31 GMT</pubDate>
   </item><item>
     <title>🍃 Tea Notes</title>
     <link>https://itsiweinstock.com/tea-notes</link>
     <guid>https://itsiweinstock.com/tea-notes</guid>
     <description><![CDATA[ Tea tasting notes and reviews ]]></description>
-    <pubDate>Sun, 14 Sep 2025 18:19:22 GMT</pubDate>
+    <pubDate>Sun, 14 Sep 2025 18:48:31 GMT</pubDate>
   </item><item>
     <title>Welcome to my website</title>
     <link>https://itsiweinstock.com/</link>
     <guid>https://itsiweinstock.com/</guid>
     <description><![CDATA[ Food, Music, Books, Tea, Vegan Propaganda ]]></description>
-    <pubDate>Sun, 14 Sep 2025 18:19:22 GMT</pubDate>
+    <pubDate>Sun, 14 Sep 2025 18:48:31 GMT</pubDate>
   </item><item>
     <title>Contact Me</title>
     <link>https://itsiweinstock.com/contact</link>
     <guid>https://itsiweinstock.com/contact</guid>
     <description><![CDATA[ I love getting emails. ]]></description>
-    <pubDate>Sun, 14 Sep 2025 18:19:22 GMT</pubDate>
+    <pubDate>Sun, 14 Sep 2025 18:48:31 GMT</pubDate>
+  </item><item>
+    <title>Intro to Bayesian Optimization 2. The Bayesian Optimization Framework</title>
+    <link>https://itsiweinstock.com/blog/Intro-to-Bayesian-Optimization-2.-The-Bayesian-Optimization-Framework</link>
+    <guid>https://itsiweinstock.com/blog/Intro-to-Bayesian-Optimization-2.-The-Bayesian-Optimization-Framework</guid>
+    <description><![CDATA[ Section 2: The Bayesian Optimization Framework Random Search is widely used, especially when you have a lot of resources you can use in parallel. ]]></description>
+    <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>How to get into tea</title>
     <link>https://itsiweinstock.com/blog/How-to-get-into-tea</link>
     <guid>https://itsiweinstock.com/blog/How-to-get-into-tea</guid>
     <description><![CDATA[ Why tea? Tea is extremely cheap and extremely artisinal. You can become a sophisticant while paying very little. ]]></description>
     <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Designing Good AI Agent Systems with Evaluations</title>
-    <link>https://itsiweinstock.com/blog/Designing-Good-AI-Agent-Systems-with-Evaluations</link>
-    <guid>https://itsiweinstock.com/blog/Designing-Good-AI-Agent-Systems-with-Evaluations</guid>
-    <description><![CDATA[ Intro concepts Evals and the data flywheel are what will make or break AI products Evals are the base infrastructure to do future work on prompt engineering, few-shot learning, RAG, and fine-tuning. ]]></description>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>The Metamorphosis</title>
-    <link>https://itsiweinstock.com/blog/The-Metamorphosis</link>
-    <guid>https://itsiweinstock.com/blog/The-Metamorphosis</guid>
-    <description><![CDATA[ Franz Kafka, 1915, an absurdist? modernist? Novella I’m sure tons has been written about this bad boy, but I’m going to take a crack at it before reading any other analyses, then see later if I’m stupid. ]]></description>
-    <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
